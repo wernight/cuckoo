@@ -1,0 +1,3 @@
+[+] Optionnal Tic-Tac sound option.
+[-] Tic-tac misses a beat sometimes.
+[*] Special dates sounds: For all clocks and for christmas & other dates too.

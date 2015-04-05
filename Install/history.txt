@@ -1,0 +1,104 @@
+Cuckoo
+
+version 4.34 (2013-04-04):
+
+  bugs fixed:
+   o Compiled on an updated platform.
+
+
+version 4.33 (2007-08-16):
+
+  bugs fixed:
+   o Compiled on an updated platform.
+
+
+version 4.32 (2006-07-20):
+
+  bugs fixed:
+   o Avoid possible blinking after a long period of use.
+
+
+Version 4.31 (2005-07-08):
+
+  Bugs Fixed:
+   o The option [Bell at 15 and 45] was not saved.
+   o The option [Bell on hours] did not display the saved value.
+
+
+Version 4.30 (2005-06-30):
+
+  Features Added:
+   o Improved about dialog box.
+
+  Changes:
+   o All documents have been translated.
+
+  Bugs Fixed:
+   o Some files where not removed during uninstall.
+   o Compiled on an updated platform.
+
+
+Version 4.20 (2003-11-23):
+
+  Features Added:
+   o Doubled the rendering speed of the MickeyMouse clock.
+   o Automatic detection of the "Avoid flickering" option should be set (this option has been removed from the setting's dialog).
+
+  Bugs Fixed:
+   o Call glFush before swapping buffers.
+
+
+Version 4.10 (2003-11-22):
+
+  Features Added:
+   o Use lists to accelerate some more the rendering.
+   o Added the option "Avoid screen flickering" for people experiencing rendering problems.
+
+  Bugs Fixed:
+   o Main speed upgrades where not working.
+   o The "Disable sounds once monitor power shut down" option wasn't saved.
+   o The cuckoo clock could make some computers bug.
+   o When the screen-saver started at a bell time the bell sound may have been disturbed.
+
+
+Version 4.00 (2003-10-12):
+
+  Features Added:
+   o Better install system with icons and uninstall support.
+   o Dialogs are in French and in English depending of the running system.
+
+  Bugs Fixed:
+   o Screen saver crash when screen goes to power off should be fixed (be sure to enable the option in settings).
+   o General crashes or problems solved.
+
+  Minor Changes:
+   o Less freeze during time updates (about each 5 seconds).
+   o Darked Cuckoo clock's pendulum.
+
+
+Version 3.10:
+
+  Features Added:
+   o Increased number of frames per second. 
+
+
+Version 3.00:
+
+  Features Added:
+   o Added the Mickey Mouse© clock. 
+
+  Bugs Fixed:
+   o Better installation routine of the screen saver. 
+   o Corrected some bugs. 
+
+
+Version 2.00:
+
+  Features Added:
+   o Added the Westminster clock. 
+   o Reduced overage program size. 
+   o Some other upgrades. 
+
+
+Version 1.00:
+  First release of Cuckoo.

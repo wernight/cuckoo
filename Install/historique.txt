@@ -1,0 +1,104 @@
+Cuckoo
+
+Version 4.34 (2013-04-04):
+
+  Bogues Corrigés:
+   o Compilé sur une plate-forme à jour.
+
+
+Version 4.33 (2007-08-16):
+
+  Bogues Corrigés:
+   o Compilé sur une plate-forme à jour.
+
+
+Version 4.32 (2006-07-20):
+
+  Bogues Corrigés:
+   o Évite les clignottements possibles après une longue utilisation.
+
+
+Version 4.31 (2005-07-08):
+
+  Bogues Corrigés:
+   o L'option [Sonner au 15 et 45] n'était pas sauvegardée.
+   o L'option [Sonner aux heures] n'affichait pas la valeur sauvegardée.
+
+
+Version 4.30 (2005-06-30):
+
+  Fonctions Ajoutées:
+   o Boite de dialogue "à propos" améliorée.
+
+  Changements:
+   o Tous les textes ont été traduits en français.
+
+  Bogues Corrigés:
+   o Des fichiers n'étaient pas supprimés après la dé-installation.
+   o Compilé sur une plate-forme à jour.
+
+
+Version 4.20 (2003-11-23):
+
+  Fonctions Ajoutées:
+   o Vitesse d'affichage du réveil MickeyMouse doublée.
+   o Détection automatique de l'ancienne option "Éviter le clignotement" (cette option a donc été supprimée).
+
+  Bogues Corrigés:
+   o Appel glFlush avant d'échanger les buffers.
+
+
+Version 4.10 (2003-11-22):
+
+  Fonctions Ajoutées:
+   o Utilise les listes OpenGL afin d'accélérer l'affichage un peu.
+   o Ajout d'une option "Éviter le clignotement" pour les gens qui ont des problèmes.
+
+  Bogues Corrigés:
+   o Les accélérations de vitesse principales n'étaient pas fonctionnelles.
+   o L'option pour désactiver les sons lors de la veille n'était pas sauvegardée.
+   o Le Cuckoo pouvait générer des erreurs.
+   o Quand l'économiseur commençait à une heure où il sonne, les sons étaient parfois incohérent.
+
+
+Version 4.00 (2003-10-12):
+
+  Fonctions Ajoutées:
+   o Programme d'installation complet.
+   o Les boites de dialogue sont en français et en anglais.
+
+  Changements:
+   o Blocage moins sensible lors des mises à jours de l'heure (environ toutes les 5 sec).
+   o Pendule du coucou plus foncée.
+
+  Bogues Corrigés:
+   o Plantage quand l'écran se met en veille (activez l'option dans les paramètres).
+   o Autres correctifs contre le plantage.
+
+
+Version 3.10:
+
+  Fonctions Ajoutées:
+   o Augmentation du nombre d'images par seconde.
+
+
+Version 3.00:
+
+  Fonctions Ajoutées:
+   o Ajout du réveil Mickey Mouse©.
+
+  Bogues Corrigés:
+   o Meilleur programme d'installation pour l'économiseur d'écran.
+   o Autres correctifs mineurs.
+
+
+Version 2.00:
+
+  Fonctions Ajoutées:
+   o Ajout de l'horloge Westminster.
+   o Réduction de la taille du programme.
+   o Autres correctifs mineures.
+
+
+Version 1.00:
+  Première version de Cuckoo.

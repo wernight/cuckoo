@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{d431f111-b5cb-4e11-906d-b271ac6115e9}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{80f502ac-137f-4f57-8b16-956e193a5243}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{35a7d2f8-2622-45f4-9110-4448a6ac4611}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Clock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClockCuckoo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClockMickey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ClockWestminster.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Cuckoo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="StdAfx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Cuckoo.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Clock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClockCuckoo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClockMickey.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClockWestminster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CuckooSettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StdAfx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StopWatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Westminster\Aiguilles.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cuckoo\CC01.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cuckoo\CC02.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cuckoo\CC03.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cuckoo\CC04.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cuckoo\CC05.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cuckoo\CC06.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cuckoo\CC07.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Cuckoo.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Westminster\Fond Alpha.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Westminster\Fond.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Mickey\Fond.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Mickey\Head.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Mickey\Hour.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Libertys.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Libertys.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Mickey\Minutes.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Westminster\Reflection.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\Westminster.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="res\Westminster\carillon12H.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Westminster\carillon14H.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Westminster\carillon34H.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Westminster\carillonH.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Westminster\carillonHPlus.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Westminster\clack.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Cuckoo\clack.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Westminster\click.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Cuckoo\click.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Cuckoo\cuckoocl.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Cuckoo\cuckooclDebut.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Cuckoo\cuckooclFin.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\meuh.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="res\Mickey\TicTac.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Install\history.txt" />
+  </ItemGroup>
+</Project>

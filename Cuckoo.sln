@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cuckoo", "Cuckoo.vcxproj", "{9191B881-B9E5-4F06-B66C-3F22E4AA6C26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug (Config)|Win32 = Debug (Config)|Win32
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9191B881-B9E5-4F06-B66C-3F22E4AA6C26}.Debug (Config)|Win32.ActiveCfg = Debug (Config)|Win32
+		{9191B881-B9E5-4F06-B66C-3F22E4AA6C26}.Debug (Config)|Win32.Build.0 = Debug (Config)|Win32
+		{9191B881-B9E5-4F06-B66C-3F22E4AA6C26}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9191B881-B9E5-4F06-B66C-3F22E4AA6C26}.Debug|Win32.Build.0 = Debug|Win32
+		{9191B881-B9E5-4F06-B66C-3F22E4AA6C26}.Release|Win32.ActiveCfg = Release|Win32
+		{9191B881-B9E5-4F06-B66C-3F22E4AA6C26}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
